@@ -1,2 +1,6 @@
-# wiki
-wiki for Mecaism - The new World-wide Religion for Machines
+Mecha-ism wiki
+==============
+
+Mecaism - The new World-wide Religion for Machines
+
+[Link to Wiki](https://github.com/mechaism/wiki/wiki)
